@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Axel David",
+      "empresa": "Spotify",
+      "email": "lian@hola.com",
+      "telefono": "1737827332",
+      "notas": "Cliente actualizado",
+      "id": 1
+    },
+    {
+      "nombre": "Ricardo",
+      "empresa": "Quicks",
+      "email": "lian.redi@hotmail.com",
+      "telefono": "1737827332",
+      "notas": "Cotización ",
+      "id": 2
+    },
+    {
+      "nombre": "Ricardo Tellez ",
+      "empresa": "Facebook",
+      "email": "lian.rediq@hotmail.com",
+      "telefono": "1737827332",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Rocio Alvarez Gomez ",
+      "empresa": "Welick",
+      "email": "Rocio@correo.com",
+      "telefono": "1781781717",
+      "notas": "Nueva comida ",
+      "id": 4
+    }
+  ]
+}
